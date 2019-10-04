@@ -21,6 +21,10 @@ And of course the `TWITTER_HASHTAG` you want to listen to. The token and consume
 
 To deploy retweeter on a Linux with Systemd, you can use the [`retweeter.service.example`](https://github.com/brejoc/retweeter/blob/master/retweeter.service.example). 
 
+## Issues and Contributions
+
+If you've got problems or questions please don't hesitate to open an issue. If you'd like to improve something or found a bug and you want to fix it, just open a pull request.
+
 ## Misc
 
 This retweeter is a fork of https://github.com/campoy/justforfunc/tree/master/14-twitterbot
