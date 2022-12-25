@@ -20,7 +20,8 @@ Type=simple
 User=youruser
 WorkingDirectory=/your/path/here
 ExecStart=/path/to/retweeter
-Restart=on-abort
+Restart=always
+RuntimeMaxSec=86400
 
 Environment=CONSUMER_KEY=insert_consumer_key
 Environment=CONSUMER_SECRET=insert_consumer_secret
